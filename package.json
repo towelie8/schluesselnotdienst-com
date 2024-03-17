@@ -1,0 +1,25 @@
+{
+  "name": "schluesselnotdienst-com",
+  "version": "1.0.0",
+  "description": "Schluesselnotdienst.com - Homepage",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towelie8/schluesselnotdienst-com.git"
+  },
+  "author": "Maximilian Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/towelie8/schluesselnotdienst-com/issues"
+  },
+  "homepage": "https://github.com/towelie8/schluesselnotdienst-com#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "bootstrap": "^5.3.2",
+    "sass": "^1.72.0"
+  }
+}
