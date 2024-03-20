@@ -20,3 +20,25 @@
   background-color: #ffc107; /* Gelber Button */
   border: none;
 }
+
+#qualifications h2 {
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.card {
+  margin: 1rem 0;
+}
+
+.card-body i {
+  color: #007bff; /* Passend zum Farbschema */
+}
+
+.card-title {
+  color: #333;
+  margin-top: 1rem;
+}
+
+.card-text {
+  color: #666;
+}
